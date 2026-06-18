@@ -1,271 +1,207 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME">
+<div align="center">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Aml+Saied;Flutter+Developer+📱;Mobile+App+Engineer+🚀;AI+Enthusiast+🤖;Welcome+To+My+GitHub+Profile+✨"
-      alt="Typing SVG"
-    />
-  </a>
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&color=70A5FD&lines=Hi+There!;I'm+Aml+Saied;Flutter+Developer;Mobile+App+Engineer;" />
 
-<h3 align="center">
-Flutter Developer | Mobile App Engineer | AI Enthusiast
-</h3>
+</div>
 
-<p align="center">
-📍 Egypt • 🎓 Computer & Artificial Intelligence Graduate • 🚀 Open To Work
-</p>
+<br>
 
-<p align="center">
-<a href="mailto:amlsaied2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<div align="center">
 
-<a href="YOUR_LINKEDIN">
+### Flutter Developer • Mobile App Engineer
+
+ Egypt •  Computer & Artificial Intelligence Graduate •  Open To Work
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- <a href="https://www.linkedin.com/in/aml-saied/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a> -->
 
-<a href="YOUR_PORTFOLIO">
+<!-- <a href="mailto:amlsaied2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a> -->
+
+<!-- <a href="https://aml-saied-dl99rf8.gamma.site/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/amllsaied">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+</a> -->
 
----
+</div>
 
-# 👩‍💻 About Me
+<br>
 
-🎓 Computer & Artificial Intelligence Graduate from Benha University
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-📱 Flutter Developer with 2+ years of experience building scalable mobile applications
+#  About Me
 
-🤖 Passionate about Mobile Development, Artificial Intelligence, and Software Engineering
+- I'm a Flutter Developer with 2+ years of experience building scalable and user-friendly mobile applications.
 
-🏆 ECPC Contestant (Top 100)
+- Graduated from Benha University with a Bachelor's degree in Computer & Artificial Intelligence, with a strong foundation in software engineering, algorithms,      data structures, and problem-solving.
 
-🧠 IEEE AI Track Member
+- Experienced in Flutter, Firebase, REST APIs, Clean Architecture, Bloc, Cubit, and GetX. I enjoy transforming ideas into production-ready applications while focusing on maintainable architecture and great user experiences.
 
-💡 Experienced in Flutter, Firebase, REST APIs, State Management, and Clean Architecture
+- I've contributed to real-world projects including **Ofoq Platform**, **Medix**, **Metro Go**, and **Movie App**, covering education, healthcare, navigation, and   entertainment domains.
 
-🌱 Currently learning and improving:
-- Advanced Flutter Development
-- Software Architecture
-- Design Patterns
+Currently focused on improving my expertise in:
+- Mobile Architecture
+- Performance Optimization
+- Software Design Patterns
 - AI & Machine Learning
 
-💬 Ask me about Flutter, Firebase, Bloc, Clean Architecture, APIs, Git, and Mobile App Development
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Flutter-70A5FD?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-1f2335?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bloc%20Pattern-7aa2f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Integration-2ac3de?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firebase-ff9e64?style=for-the-badge&logo=firebase&logoColor=white"/>
+
+</div>
 
 ---
 
-# 🚀 Tech Stack
+# Technical Expertise
 
-### 📱 Mobile Development
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
+### Mobile Development
 
-### ⚙️ State Management
+Flutter • Cross-Platform Applications • Responsive UI
 
-- Bloc
-- Cubit
-- GetX
+Bloc • Cubit • GetX
 
-### 🔥 Backend & Databases
+Firebase Integration
 
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,mysql" />
-</p>
+REST API Integration
 
-- SQLite
+Performance Optimization
 
-### 💻 Programming Languages
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp" />
-</p>
+### Architecture & Engineering
 
-### 🏗️ Architecture & Concepts
+Clean Architecture
 
-- Clean Architecture
-- MVC
-- MVI
-- OOP
-- Design Patterns
-- REST APIs
-- Data Structures
-- Algorithms
+MVC • MVI
 
-### 🛠 Tools
+OOP
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
-</p>
+Design Patterns
 
----
+Git Workflow
 
-# 🌟 Featured Projects
 
-## 🎓 Ofoq Platform
 
-Educational platform developed as a collaborative team project.
+<br>
 
-### Features
+### Problem Solving
 
-✅ Authentication System
+Algorithms
 
-✅ AI Chatbot Integration
+Data Structures
 
-✅ Smart Quiz System
+Competitive Programming
 
-✅ Attendance Management
+ECPC Contestant (Top 100)
 
-✅ Course Management
-
-✅ Lecture Management
-
-✅ REST API Integration
-
-✅ Bloc State Management
-
-✅ Git Workflow & Team Collaboration
-
-**Tech Stack:** Flutter • Bloc • REST APIs • Git • Clean Architecture
+</div>
 
 ---
 
-## 🏥 Medix
+#  Languages & Tools
 
-Healthcare platform built using Flutter & Firebase.
+<div align="center">
 
-### Features
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,python,cpp,mysql,git,github,postman,figma,vscode,androidstudio&theme=dark" />
 
-✅ Authentication
-
-✅ Appointment Booking
-
-✅ Medication Tracking
-
-✅ Health Monitoring
-
-✅ Notifications
-
-✅ Telemedicine
-
-**Tech Stack:** Flutter • Firebase • Bloc
+</div>
 
 ---
 
-## 🚇 Metro Go
+#  Featured Projects
 
-Metro navigation mobile application.
+### Ofoq Platform
 
-### Features
+Educational platform with AI Chatbot, Smart Quiz, Attendance Management, Course & Lecture Management, Authentication, and REST API integration.
 
-✅ Route Calculation
-
-✅ Ticket Pricing
-
-✅ Nearest Station Detection
-
-✅ Interactive Maps
-
-✅ Arabic & English Support
-
-✅ Dark & Light Themes
-
-**Tech Stack:** Flutter • GetX • Geolocator • Geocoding • Flutter Maps
+**Flutter • Bloc • Clean Architecture • REST APIs**
 
 ---
 
-## 🎬 Movie App
+###  Medix
 
-Movie browsing application built with Clean Architecture.
+Healthcare platform for patients, doctors, and hospitals with telemedicine, appointment booking, medication tracking, and health monitoring.
 
-### Features
-
-✅ REST API Integration
-
-✅ Bloc State Management
-
-✅ Scalable Architecture
-
-✅ Modular Code Structure
-
-**Tech Stack:** Flutter • Bloc • Clean Architecture
+**Flutter • Firebase • Bloc**
 
 ---
 
-# 🏅 Training & Certifications
+###  Metro Go
 
-🎯 Digital Egypt Pioneers Initiative (DEPI) – Mobile Development
+Metro navigation application featuring route calculation, nearest station detection, ticket pricing, multilingual support, and interactive maps.
 
-🎯 NTI Flutter Mobile Development Training
-
-🎯 ITI Flutter Mobile Development Training
-
-🎯 CCNA Certified
+**Flutter • GetX • Geolocator**
 
 ---
 
-# 🏆 Activities & Achievements
+###  Movie App
 
-🥇 ECPC Contestant – Top 100
+Movie browsing application built using Clean Architecture and Bloc with REST API integration.
 
-🧠 IEEE AI Track Member
-
-🚀 GDSC Flutter Bootcamp Participant
-
-💻 Code Of Duty IV Camp Participant
+**Flutter • Bloc • Clean Architecture**
 
 ---
 
-# 📊 GitHub Stats
+#  Activities & Achievements
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+ ECPC Contestant – Top 100
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+ IEEE AI Track Member
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+ DEPI Mobile Development Trainee
 
----
+ NTI Flutter Training
 
-# 📈 Contribution Graph
+ ITI Flutter Training
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
+ GDSC Flutter Bootcamp Participant
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/aml-saied/">
+<img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:amlsaied2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-2ac3de?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://aml-saied-dl99rf8.gamma.site/">
+<img src="https://img.shields.io/badge/Portfolio-1f2335?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
-⭐ Always learning, building, and improving through real-world projects.
+<div align="center">
+
+ Building impactful mobile experiences with Flutter.
+
+</div>
