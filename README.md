@@ -1,7 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME">
 
 <h1 align="center">
-  Hi 👋, I'm Aml Saied
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Aml+Saied;Flutter+Developer+📱;Mobile+App+Engineer+🚀;AI+Enthusiast+🤖;Welcome+To+My+GitHub+Profile+✨"
+      alt="Typing SVG"
+    />
+  </a>
 </h1>
 
 <h3 align="center">
@@ -9,14 +14,32 @@ Flutter Developer | Mobile App Engineer | AI Enthusiast
 </h3>
 
 <p align="center">
-Building scalable mobile applications with Flutter, Firebase, and Clean Architecture 🚀
+📍 Egypt • 🎓 Computer & Artificial Intelligence Graduate • 🚀 Open To Work
+</p>
+
+<p align="center">
+<a href="mailto:amlsaied2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 B.Sc. in Computer & Artificial Intelligence, Benha University
+🎓 Computer & Artificial Intelligence Graduate from Benha University
 
 📱 Flutter Developer with 2+ years of experience building scalable mobile applications
 
@@ -28,139 +51,156 @@ Building scalable mobile applications with Flutter, Firebase, and Clean Architec
 
 💡 Experienced in Flutter, Firebase, REST APIs, State Management, and Clean Architecture
 
-🌱 Currently improving my skills in:
+🌱 Currently learning and improving:
 - Advanced Flutter Development
 - Software Architecture
 - Design Patterns
 - AI & Machine Learning
 
-💬 Ask me about Flutter, Bloc, Clean Architecture, Firebase, REST APIs, Git, and Mobile App Development
-
-📫 Reach me: **amlsaied2004@gmail.com**
+💬 Ask me about Flutter, Firebase, Bloc, Clean Architecture, APIs, Git, and Mobile App Development
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 ### 📱 Mobile Development
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
 
 ### ⚙️ State Management
 
-![Bloc](https://img.shields.io/badge/Bloc-blue?style=for-the-badge)
-![Cubit](https://img.shields.io/badge/Cubit-purple?style=for-the-badge)
-![GetX](https://img.shields.io/badge/GetX-red?style=for-the-badge)
+- Bloc
+- Cubit
+- GetX
 
 ### 🔥 Backend & Databases
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,mysql" />
+</p>
+
+- SQLite
 
 ### 💻 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp" />
+</p>
 
 ### 🏗️ Architecture & Concepts
 
-✔ Clean Architecture
-
-✔ MVC
-
-✔ MVI
-
-✔ OOP
-
-✔ Design Patterns
-
-✔ REST APIs
-
-✔ Data Structures
-
-✔ Algorithms
+- Clean Architecture
+- MVC
+- MVI
+- OOP
+- Design Patterns
+- REST APIs
+- Data Structures
+- Algorithms
 
 ### 🛠 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
+</p>
 
 ---
 
-## 🌟 Featured Projects
+# 🌟 Featured Projects
 
-### 🎓 Ofoq Platform
+## 🎓 Ofoq Platform
 
-Educational platform developed as a team project.
+Educational platform developed as a collaborative team project.
 
-✨ Features:
-- Authentication System
-- AI Chatbot Integration
-- Smart Quiz System
-- Attendance Management
-- Course & Lecture Management
-- REST API Integration
-- State Management using Bloc
-- Git Workflow & Team Collaboration
+### Features
 
-🛠 Flutter • Bloc • REST APIs • Git • Clean Architecture
+✅ Authentication System
+
+✅ AI Chatbot Integration
+
+✅ Smart Quiz System
+
+✅ Attendance Management
+
+✅ Course Management
+
+✅ Lecture Management
+
+✅ REST API Integration
+
+✅ Bloc State Management
+
+✅ Git Workflow & Team Collaboration
+
+**Tech Stack:** Flutter • Bloc • REST APIs • Git • Clean Architecture
 
 ---
 
-### 🏥 Medix
+## 🏥 Medix
 
 Healthcare platform built using Flutter & Firebase.
 
-✨ Features:
-- User Authentication
-- Appointment Booking
-- Telemedicine
-- Health Monitoring
-- Medication Tracking
-- Notifications
+### Features
 
-🛠 Flutter • Firebase • Bloc
+✅ Authentication
 
----
+✅ Appointment Booking
 
-### 🚇 Metro Go
+✅ Medication Tracking
 
-Smart Metro Navigation Application.
+✅ Health Monitoring
 
-✨ Features:
-- Route Calculation
-- Number of Stations
-- Ticket Pricing
-- Nearest Station Detection
-- Interactive Maps
-- Arabic & English Languages
-- Dark & Light Themes
+✅ Notifications
 
-🛠 Flutter • GetX • Geolocator • Geocoding • Flutter Maps
+✅ Telemedicine
+
+**Tech Stack:** Flutter • Firebase • Bloc
 
 ---
 
-### 🎬 Movie App
+## 🚇 Metro Go
+
+Metro navigation mobile application.
+
+### Features
+
+✅ Route Calculation
+
+✅ Ticket Pricing
+
+✅ Nearest Station Detection
+
+✅ Interactive Maps
+
+✅ Arabic & English Support
+
+✅ Dark & Light Themes
+
+**Tech Stack:** Flutter • GetX • Geolocator • Geocoding • Flutter Maps
+
+---
+
+## 🎬 Movie App
 
 Movie browsing application built with Clean Architecture.
 
-✨ Features:
-- REST API Integration
-- Bloc State Management
-- Scalable Architecture
-- Modular Code Structure
+### Features
 
-🛠 Flutter • Bloc • Clean Architecture
+✅ REST API Integration
+
+✅ Bloc State Management
+
+✅ Scalable Architecture
+
+✅ Modular Code Structure
+
+**Tech Stack:** Flutter • Bloc • Clean Architecture
 
 ---
 
-## 🏅 Certifications & Training
+# 🏅 Training & Certifications
 
 🎯 Digital Egypt Pioneers Initiative (DEPI) – Mobile Development
 
@@ -172,7 +212,7 @@ Movie browsing application built with Clean Architecture.
 
 ---
 
-## 🏆 Activities & Achievements
+# 🏆 Activities & Achievements
 
 🥇 ECPC Contestant – Top 100
 
@@ -184,31 +224,47 @@ Movie browsing application built with Clean Architecture.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Contribution Graph
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](YOUR_PORTFOLIO)
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+# 🌐 Connect With Me
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank)](YOUR_HACKERRANK)
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+</a>
+
+<a href="mailto:amlsaied2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
